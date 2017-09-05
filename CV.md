@@ -6,7 +6,7 @@ Nationality: Dutch | Place of birth: Versailles
 
 Hobbemastraat 4 | Tilburg, The Netherlands | 5025NM 
 
-m.m.bremer@uvt.nl | https://www.linkedin.com/in/menno-bremer-1a352aa9/ 
+[Mail](m.m.bremer@uvt.nl) | [LinkedIn](https://www.linkedin.com/in/menno-bremer-1a352aa9/) 
 
 --------------------------
 ### Education 
