@@ -2,9 +2,11 @@
 
 # Curriculum Vitae Menno Bremer
 
-Nationality: Dutch | Place of birth: Versailles
+Nationality: Dutch 
 
-Hobbemastraat 4 | Tilburg, The Netherlands | 5025NM 
+[Place of birth](https://www.google.nl/maps/place/78000+Versailles,+Frankrijk/@48.8038949,2.101626,14z/data=!3m1!4b1!4m5!3m4!1s0x47e67db475f420bd:0x869e00ad0d844aba!8m2!3d48.801408!4d2.130122?hl=nl)
+
+[Address](https://www.google.nl/maps/place/Hobbemastraat+4,+5025+NM+Tilburg/@51.5517348,5.0666421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6be40c7f358c3:0x22f91b81b4cc28b6!8m2!3d51.5517315!4d5.0688361?hl=nl)
 
 [Mail](m.m.bremer@uvt.nl) | [LinkedIn](https://www.linkedin.com/in/menno-bremer-1a352aa9/) 
 
